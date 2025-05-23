@@ -55,7 +55,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-container">
         <Link to="/" className="nav-logo">
-          <h1>BlogSpace</h1>
+          <h1>BlogSpacebyvikrant</h1>
         </Link>
         <ul className="nav-menu">
           <li><Link to="/" className="nav-link">Home</Link></li>
