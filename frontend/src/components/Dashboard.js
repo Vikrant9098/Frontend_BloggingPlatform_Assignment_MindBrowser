@@ -60,7 +60,7 @@ const Dashboard = () => {
   return (
     <div className="dashboard-container">
       <div className="dashboard-header">
-        <h1>My Posts Dashboard by Vikrant </h1>
+        <h1>My Posts Dashboard</h1>
         <p>Welcome back, {user?.username}!</p>
         <Link to="/create-post" className="create-post-btn">
           Create New Post
